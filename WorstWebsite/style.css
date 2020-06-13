@@ -1,0 +1,46 @@
+body{
+    background-color: red;
+}
+h1 {
+    background-color: lime;
+  font-family: "Comic Sans MS", Geneva, Helvetica, sans-serif;
+  }
+
+h2{
+  background-color:beige ;
+  font-family: Impact, Geneva, Helvetica, sans-serif;
+}
+  div {
+    background-color: greenyellow;
+  }
+  
+  h3 {
+    font-family: "Comic Sans MS", Geneva, Helvetica, sans-serif;
+  }
+.thumbnail:hover {
+  position:relative;
+  top:-25px;
+  left:-35px;
+  width:500px;
+  height:auto;
+  display:block;
+  z-index:500;
+}
+  p {
+    background-color: yellow;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    text-align: center;
+    overflow: scroll;
+    font-family: Impact, Geneva, Helvetica, sans-serif;
+
+
+  }
+  img {
+    border-radius: 80%;
+    border: 8px turquoise;
+    background-color: yellow;
+    float: right
+  }

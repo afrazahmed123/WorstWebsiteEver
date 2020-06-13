@@ -1,0 +1,41 @@
+body{
+    background-color: turquoise;
+  font-family: "Comic Sans MS", Geneva, Helvetica, sans-serif;
+}
+h1 {
+    background-color: teal;
+  }
+  
+  div {
+    background-color: burlywood;
+  }
+
+  h5{
+    font-family: "Comic Sans MS", Geneva, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+.thumbnail:hover {
+  position:relative;
+  top:-25px;
+  left:-35px;
+  width:500px;
+  height:auto;
+  display:block;
+  z-index:500;
+}
+  
+  p {
+    background-color: khaki;
+    width: 300px;
+    height: 300px;
+    border: 15px solid green;
+    text-align: center;
+    overflow: scroll;
+    
+  }
+  img {
+    border-radius: 80%;
+    padding: 59px;
+    margin: 28px;
+    float: left;
+  }
